@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "776686139557",
+    "project_id": "scrapcycle-b193c",
+    "storage_bucket": "scrapcycle-b193c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776686139557:android:16bc5cf85e3a91e7e0354c",
+        "android_client_info": {
+          "package_name": "com.example.calculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "776686139557-1e9cq41dma7i294r57h3m4lm9s7bqgbc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.calculator",
+            "certificate_hash": "61455e47339cfab961b4c5cf4087e8b821bf71c0"
+          }
+        },
+        {
+          "client_id": "776686139557-fj3frqh2jnoipetu2cgfdtij0qvndb83.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJpZDQVikg7H9GX8y7aoH24RUVj5HKkco"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "776686139557-fj3frqh2jnoipetu2cgfdtij0qvndb83.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
